@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "3",
+      "name": "IGIRANEZA Fabrice",
+      "email": "fabrdaa@gmail.com"
+    },
+    {
+      "name": "IGIRANEZA Fabrice 2test",
+      "email": "fabrice@gmail.com",
+      "id": "4"
+    }
+  ]
+}
