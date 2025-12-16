@@ -1,14 +1,19 @@
 {
   "contacts": [
     {
-      "id": "3",
-      "name": "IGIRANEZA Fabrice",
+      "id": "c25e",
+      "name": "Daniel NTAKIRUTIMANA",
       "email": "fabrdaa@gmail.com"
     },
     {
-      "name": "IGIRANEZA Fabrice 2test",
-      "email": "fabrice@gmail.com",
-      "id": "4"
+      "id": "ddd5",
+      "name": "IGIRANEZA Fabrice",
+      "email": "nendayishimiye@gmail.com"
+    },
+    {
+      "id": "2160",
+      "name": "IGIRANEZA",
+      "email": "fabrda@gmail.com"
     }
   ]
 }
